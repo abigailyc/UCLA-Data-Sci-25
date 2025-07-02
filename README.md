@@ -7,7 +7,7 @@ Target Column: total_seconds
 To Do:
 --
 * Simran:
-    ✔️ Create total_seconds column using feature engineering 
+    - ✔️ Create total_seconds column using feature engineering
     - KNN Model (feature selection + K-fold CV)
 * Sofia:
     - Decision Tree/Random Forest Regression Model (feature selection + K-fold CV)
